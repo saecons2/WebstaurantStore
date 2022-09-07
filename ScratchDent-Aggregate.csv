@@ -1,0 +1,7 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Scratch-Dent2:HTTP Request2,15,429,412,563,569,684,275,684,0.000%,.01772,4.56,0.01
+Scratch-Dent:HTTP Request,15,428,379,532,656,740,286,740,0.000%,.01772,4.30,0.01
+Scratch-Dent3:HTTP Request3,15,415,388,548,558,592,271,592,0.000%,.01772,4.44,0.01
+Scratch-Dent5:HTTP Request5,15,406,387,489,547,557,292,557,0.000%,.01773,4.24,0.01
+Scratch-Dent4:HTTP Request4,15,460,391,654,732,818,281,818,0.000%,.01771,4.43,0.01
+TOTAL,75,428,388,563,656,740,271,818,0.000%,.08855,21.96,0.03
